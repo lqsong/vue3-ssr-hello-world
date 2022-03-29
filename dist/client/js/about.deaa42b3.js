@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue3_ssr_hello_world"]=self["webpackChunkvue3_ssr_hello_world"]||[]).push([[443],{4335:function(e,n,r){r.r(n),r.d(n,{default:function(){return h}});var s=r(3396);const u={class:"about"},l=(0,s._)("h1",null,"This is an about page",-1),t=[l];function a(e,n){return(0,s.wg)(),(0,s.iD)("div",u,t)}var o=r(89);const c={},i=(0,o.Z)(c,[["render",a]]);var h=i}}]);
+//# sourceMappingURL=about.deaa42b3.js.map
